@@ -1,0 +1,14 @@
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.exe
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.deps.json
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.json
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.dev.json
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.dll
+E:\C# Practise\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.pdb
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.AssemblyReference.cache
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfoInputs.cache
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfo.cs
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.CoreCompileInputs.cache
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.dll
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.pdb
+E:\C# Practise\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.genruntimeconfig.cache
