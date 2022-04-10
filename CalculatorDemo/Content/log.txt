@@ -1,1 +1,35 @@
-﻿
+Enter first number
+25
+Enter second number
+5
+Enter operator
++
+25 and 5 with Operator + result in 30
+Enter first number
+25
+Enter second number
+5
+Enter operator
+-
+25 and 5 with Operator - result in 20
+Enter first number
+25
+Enter second number
+1
+Enter operator
+*
+25 and 1 with Operator * result in 25
+Enter first number
+25
+Enter second number
+5
+Enter operator
+/
+25 and 5 with Operator / result in 5
+Enter first number
+25
+Enter second number
+5
+Enter operator
+%
+25 and 5 with Operator % result in 5
